@@ -1,0 +1,9 @@
+marks={
+    "Sub1":"Maths",
+    "Sub2":"English",
+    "Sub3":"Hindi"
+}
+print(type(marks))
+print(marks["Sub1"])
+print(marks["Sub2"])
+print(marks["Sub3"])
